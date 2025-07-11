@@ -2,7 +2,7 @@
 
 This repository contains the  code for a deep learning model designed to predict next-day average temperatures in London using historical weather data. The model uses Long Short-Term Memory (LSTM) neural networks, a class of recurrent architectures well-suited for time series forecasting.
 
-### Project Overview
+## Project Overview
 The goal of this system is to forecast future temperature values by learning from past observations. It employs standard data preprocessing pipelines, a custom dataset loader and an LSTM architecture to model sequential patterns within daily temperature data.
 
 ## Key Components
